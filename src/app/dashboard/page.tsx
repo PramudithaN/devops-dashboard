@@ -1,3 +1,4 @@
+"use client";
 import React, { useEffect, useState } from 'react';
 import RepoTable from '../../../components/RepoTable';
 import BuildChart from '../../../components/BuildChart';
